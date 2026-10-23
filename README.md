@@ -9,7 +9,8 @@ Class & Object
 6) Copy Constructor : https://www.programiz.com/online-compiler/44QLGN1Nowx3P
 
 Inheritance 
-1) https://www.programiz.com/online-compiler/7X1hpGtJLQ6Tf
+1) Single : https://www.programiz.com/online-compiler/7X1hpGtJLQ6Tf
+2) Multilevel : https://www.programiz.com/online-compiler/4HhjVDR3bL214
 
 C 
 - POP language (Procedural Oriented Programming)
