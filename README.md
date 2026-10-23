@@ -8,6 +8,9 @@ Class & Object
 5) https://www.programiz.com/online-compiler/19JmqG6WyijC0
 6) Copy Constructor : https://www.programiz.com/online-compiler/44QLGN1Nowx3P
 
+Inheritance 
+1) https://www.programiz.com/online-compiler/7X1hpGtJLQ6Tf
+
 C 
 - POP language (Procedural Oriented Programming)
 - Large Program divide into function
